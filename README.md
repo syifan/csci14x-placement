@@ -10,7 +10,7 @@
 
 **How to take the exam:** You can fork this repo and solve the problems within your repo. When you commit and push the repo, GitHub will run the tests. If you can pass the test within 2 hours, you pass the exam. You can also run `python3 -m unittest` to run the tests locally. You can run any time you want and fix your code according to the test requirement. 
 
-Once you pass the test, there is no need to report the test result to anyone. If you pass, you can directly select CSCI2XX courses (assuming you have AP courses to fulfill the prerequisite). If you fail, it is recommended to take CSCI140/141 courses. If you have any questions, please contact the instructor.
+Once you pass the test, there is no need to report the test result to anyone. If you pass, you can directly select CSCI2XX courses (assuming you have AP courses to fulfill the prerequisite). If you fail, it is recommended that you take CSCI140/141 courses. If you have any questions, please contact the instructor.
 
 ## Problem 1. N-th Prime Number
 
@@ -42,7 +42,7 @@ assert nth_prime(6) == 13
 
 ### Constraints:
 
-* \( 1 \leq n \leq 1000 \)
+* $1 \leq n \leq 1000$
 
 
 ## Problem 2: Two-Sum Problem
